@@ -3,8 +3,7 @@ Title: Example Package
 Version: 0.0.0.9000
 Authors@R: 
     person("Lin", "Khant", , "lkhant@calpoly.edu", role = c("aut", "cre"))
-Description:  Provides a convenience function for splitting a single
-    string into a character vector of substrings(test package, for now).
+Description:  Provides convenience functions for string manipulations(test package, for now).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
