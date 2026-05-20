@@ -1,9 +1,9 @@
 Package: Regigigas
-Title: Example Package
+Title: String Manipulation 101
 Version: 0.0.0.9000
 Authors@R: 
     person("Lin", "Khant", , "lkhant@calpoly.edu", role = c("aut", "cre"))
-Description:  Provides convenience functions for string manipulations(test package, for now).
+Description:  Provides convenient functions for string manipulations(test package, for now).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
